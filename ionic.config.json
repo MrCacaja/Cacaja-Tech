@@ -1,0 +1,7 @@
+{
+  "name": "Cacaja Tech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
