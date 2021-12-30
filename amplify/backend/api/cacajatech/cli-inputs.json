@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "cacajatech",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\carlo\\Develop\\cacaja-tech\\amplify\\backend\\api\\cacajatech\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
